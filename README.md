@@ -61,7 +61,7 @@ HLS kütüphanesi CDN üzerinden projeye dahil edilmiş ve PiP gibi yeni butonla
   # 🎬 CodEX Player
   **Premium Web Video Oynatıcı Vitrini**
 
-  [![Canlı Önizleme](https://img.shields.io/badge/🔴_Canlı_Önizleme_İçin_Tıklayın-00a8ff?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://KULLANICIADIN.github.io/CodEX-Player-Preview/](https://testdizify.blogspot.com/2026/02/0854.html))
+  [![Canlı Önizleme](https://img.shields.io/badge/🔴_Canlı_Önizleme_İçin_Tıklayın-00a8ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://testdizify.blogspot.com/2026/02/0854.html)
 
   [![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-yellow.svg?style=flat-square)](#)
   [![Vanilla JS](https://img.shields.io/badge/Çekirdek-Vanilla_JS-f7df1e.svg?style=flat-square&logo=javascript&logoColor=black)](#)
